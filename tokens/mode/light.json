@@ -17,6 +17,10 @@
         "accent": {
           "$type": "color",
           "$value": "{color.palette.accent.800}"
+        },
+        "accent-copy": {
+          "$type": "color",
+          "$value": "{color.palette.accent.800}"
         }
       },
       "background": {
