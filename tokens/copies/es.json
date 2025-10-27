@@ -1,0 +1,418 @@
+{
+  "hero": {
+    "title": {
+      "value": "Bienvenido mundo!",
+      "type": "text"
+    },
+    "subtitle": {
+      "value": "Subtítulo principal",
+      "type": "text"
+    },
+    "button": {
+      "value": "Botón principal",
+      "type": "text"
+    }
+  },
+  "intro": {
+    "title": {
+      "value": "Título de introducción",
+      "type": "text"
+    },
+    "subtitle": {
+      "p1": {
+        "value": "Párrafo de introducción 1",
+        "type": "text"
+      },
+      "p2": {
+        "value": "Párrafo de introducción 2",
+        "type": "text"
+      }
+    },
+    "button": {
+      "primary": {
+        "value": "Botón primario de introducción",
+        "type": "text"
+      },
+      "secondary": {
+        "value": "Botón secundario de introducción",
+        "type": "text"
+      }
+    }
+  },
+  "logos": {
+    "title": {
+      "value": "Título de logos",
+      "type": "text"
+    }
+  },
+  "sessions": {
+    "title": {
+      "value": "Título de sesiones",
+      "type": "text"
+    },
+    "tag": {
+      "one": {
+        "value": "Etiqueta de sesión uno",
+        "type": "text"
+      },
+      "two": {
+        "value": "Etiqueta de sesión dos",
+        "type": "text"
+      },
+      "three": {
+        "value": "Etiqueta de sesión tres",
+        "type": "text"
+      },
+      "four": {
+        "value": "Etiqueta de sesión cuatro",
+        "type": "text"
+      },
+      "five": {
+        "value": "Etiqueta de sesión cinco",
+        "type": "text"
+      }
+    },
+    "card": {
+      "one": {
+        "caption": {
+          "value": "Leyenda de tarjeta uno",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta uno",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta uno",
+          "type": "text"
+        }
+      },
+      "two": {
+        "caption": {
+          "value": "Leyenda de tarjeta dos",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta dos",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta dos",
+          "type": "text"
+        }
+      },
+      "three": {
+        "caption": {
+          "value": "Leyenda de tarjeta tres",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta tres",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta tres",
+          "type": "text"
+        }
+      },
+      "four": {
+        "caption": {
+          "value": "Leyenda de tarjeta cuatro",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta cuatro",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta cuatro",
+          "type": "text"
+        }
+      },
+      "five": {
+        "caption": {
+          "value": "Leyenda de tarjeta cinco",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta cinco",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta cinco",
+          "type": "text"
+        }
+      },
+      "six": {
+        "caption": {
+          "value": "Leyenda de tarjeta seis",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta seis",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta seis",
+          "type": "text"
+        }
+      },
+      "seven": {
+        "caption": {
+          "value": "Leyenda de tarjeta siete",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta siete",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta siete",
+          "type": "text"
+        }
+      },
+      "eight": {
+        "caption": {
+          "value": "Leyenda de tarjeta ocho",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta ocho",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta ocho",
+          "type": "text"
+        }
+      },
+      "nine": {
+        "caption": {
+          "value": "Leyenda de tarjeta nueve",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta nueve",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta nueve",
+          "type": "text"
+        }
+      },
+      "ten": {
+        "caption": {
+          "value": "Leyenda de tarjeta diez",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título de tarjeta diez",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción de tarjeta diez",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "teachers": {
+    "one": {
+      "name": {
+        "value": "Nombre uno",
+        "type": "text"
+      },
+      "position": {
+        "value": "Cargo uno",
+        "type": "text"
+      }
+    },
+    "two": {
+      "name": {
+        "value": "Nombre dos",
+        "type": "text"
+      },
+      "position": {
+        "value": "Cargo dos",
+        "type": "text"
+      }
+    },
+    "title": {
+      "value": "Título de profesores",
+      "type": "text"
+    }
+  },
+  "pricing": {
+    "title": {
+      "value": "Título de precios",
+      "type": "text"
+    },
+    "card": {
+      "one": {
+        "caption": {
+          "value": "Leyenda tarjeta uno",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título tarjeta uno",
+          "type": "text"
+        },
+        "price": {
+          "value": "Precio",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción tarjeta uno",
+          "type": "text"
+        },
+        "button": {
+          "value": "Botón tarjeta uno",
+          "type": "text"
+        }
+      },
+      "two": {
+        "caption": {
+          "value": "Leyenda tarjeta dos",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título tarjeta dos",
+          "type": "text"
+        },
+        "price-primary": {
+          "value": "Precio principal",
+          "type": "text"
+        },
+        "price-secondary": {
+          "value": "Precio secundario",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción tarjeta dos",
+          "type": "text"
+        },
+        "button": {
+          "value": "Botón tarjeta dos",
+          "type": "text"
+        }
+      },
+      "three": {
+        "caption": {
+          "value": "Leyenda tarjeta tres",
+          "type": "text"
+        },
+        "title": {
+          "value": "Título tarjeta tres",
+          "type": "text"
+        },
+        "description": {
+          "value": "Descripción tarjeta tres",
+          "type": "text"
+        },
+        "button": {
+          "value": "Botón tarjeta tres",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "video": {
+    "title": {
+      "value": "Título del video",
+      "type": "text"
+    }
+  },
+  "faqs": {
+    "one": {
+      "title": {
+        "value": "Título uno",
+        "type": "text"
+      },
+      "description": {
+        "value": "Descripción uno",
+        "type": "text"
+      }
+    },
+    "two": {
+      "title": {
+        "value": "Título dos",
+        "type": "text"
+      },
+      "description": {
+        "value": "Descripción dos",
+        "type": "text"
+      }
+    },
+    "three": {
+      "title": {
+        "value": "Título tres",
+        "type": "text"
+      },
+      "description": {
+        "value": "Descripción tres",
+        "type": "text"
+      }
+    },
+    "four": {
+      "title": {
+        "value": "Título cuatro",
+        "type": "text"
+      },
+      "description": {
+        "value": "Descripción cuatro",
+        "type": "text"
+      }
+    },
+    "five": {
+      "title": {
+        "value": "Título cinco",
+        "type": "text"
+      },
+      "description": {
+        "value": "Descripción cinco",
+        "type": "text"
+      }
+    },
+    "six": {
+      "title": {
+        "value": "Título seis",
+        "type": "text"
+      },
+      "description": {
+        "value": "Descripción seis",
+        "type": "text"
+      }
+    },
+    "title": {
+      "value": "Título de preguntas frecuentes",
+      "type": "text"
+    }
+  },
+  "footer": {
+    "copyright": {
+      "value": "Copyright © 2025. Todos los derechos reservados.",
+      "type": "text"
+    },
+    "language": {
+      "value": "English",
+      "type": "text"
+    },
+    "link": {
+      "privacy": {
+        "value": "Privacidad",
+        "type": "text"
+      },
+      "mail": {
+        "value": "Correo",
+        "type": "text"
+      },
+      "linkedin": {
+        "value": "LinkedIn",
+        "type": "text"
+      },
+      "substack": {
+        "value": "Substack",
+        "type": "text"
+      }
+    }
+  }
+}
