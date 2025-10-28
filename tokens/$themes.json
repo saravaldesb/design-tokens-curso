@@ -419,7 +419,18 @@
       "color.palette.accent.700": "14e59457e4eb54fe692f44ad13182203dedbd592",
       "color.palette.accent.800": "0dc094eb16bc6b1baa80d2ffa4d6f6133be66667",
       "color.palette.accent.900": "88f2504bd858abb24e1a9b16193a8bf3bcba6ecb",
-      "color.palette.accent.950": "82848e00c034679752c1b43b652c5862d60a9477"
+      "color.palette.accent.950": "82848e00c034679752c1b43b652c5862d60a9477",
+      "color.palette.neutral.50": "8d7ea6c659c5d708c9758c19ef471faefc88b3fb",
+      "color.palette.neutral.100": "a488197ebdbe411972da0debd317e0389e714607",
+      "color.palette.neutral.200": "c0063b2183f195463f673cece009db90923769c1",
+      "color.palette.neutral.300": "11ee3d1dde0ca5974ff7e2b09a26e0fdd0c5fb25",
+      "color.palette.neutral.400": "2a06abfe1962146d7138f5cc507c6931ef9cf4ac",
+      "color.palette.neutral.500": "cb02df02700248e41124aade9d518ede54521705",
+      "color.palette.neutral.600": "173a0a4ba1821eb72805ccf8b48b5a367133ee80",
+      "color.palette.neutral.700": "f791fc9bc3820173d8625dc56830035aaed8115c",
+      "color.palette.neutral.800": "57579ae9cae89b8cfa25598dcc3471949845773e",
+      "color.palette.neutral.900": "cbbbf85a015a05448c3cec29da2d6b620ee5ebd8",
+      "color.palette.neutral.950": "a2c140a876f78c7261df591100d642f9e3e29951"
     }
   },
   {
