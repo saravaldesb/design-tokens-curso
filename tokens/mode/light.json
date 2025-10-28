@@ -39,6 +39,10 @@
         "accent-light": {
           "value": "{color.palette.negative.500}",
           "type": "color"
+        },
+        "accent-purple": {
+          "value": "{color.palette.warning.200}",
+          "type": "color"
         }
       },
       "border": {

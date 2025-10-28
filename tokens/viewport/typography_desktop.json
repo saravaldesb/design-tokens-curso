@@ -1,12 +1,22 @@
 {
   "font": {
     "headline": {
+      "xxl": {
+        "value": {
+          "fontFamily": "{fontFamily.primary}",
+          "fontWeight": "{fontWeight.medium}",
+          "lineHeight": "{lineHeight.medium}",
+          "fontSize": "{dimension.x2800}",
+          "letterSpacing": "{letterSpacing.contracted}"
+        },
+        "type": "typography"
+      },
       "xl": {
         "value": {
           "fontFamily": "{fontFamily.primary}",
           "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeight.small}",
-          "fontSize": "{fontSize.1000}",
+          "fontSize": "{dimension.x2000}",
           "letterSpacing": "{letterSpacing.contracted}"
         },
         "type": "typography"

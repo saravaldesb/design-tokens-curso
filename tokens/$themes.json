@@ -74,7 +74,8 @@
       "color.button.border.primary.active": "2eef41f295e361a3f91399cd7ebcc5ed197cb436",
       "color.button.border.secondary.default": "078a923576a8146c4dc33dec8c0b4228b1acc524",
       "color.button.border.secondary.hover": "9130bb9883eb81ed3c531b0a64cfee1414087557",
-      "color.button.border.secondary.active": "1386f0f4b1b58ac6b42c7d44aa823850135ff9d3"
+      "color.button.border.secondary.active": "1386f0f4b1b58ac6b42c7d44aa823850135ff9d3",
+      "color.core.background.accent-purple": "0da61b7bed9122d8e724926267b4014ef05906c2"
     },
     "group": "mode"
   },
@@ -472,7 +473,8 @@
       "font.caption.m.strong": "S:1d75901d2ec1f93210c2896f1e7e7feb928d570d,",
       "font.caption.m.uppercase": "S:a8892ca5baadbf847220a4895dd54cd0e7672688,",
       "font.caption.m.underline": "S:ca095e2f8dc2455fb8d559a849af96ba5efc4ad4,",
-      "font.button.default": "S:c2e5b4e27a49faafdb5ad9159ac6f7d828acb97c,"
+      "font.button.default": "S:c2e5b4e27a49faafdb5ad9159ac6f7d828acb97c,",
+      "font.headline.xxl": "S:1e63337164bd717550a773767592206e4ac07cdd,"
     },
     "selectedTokenSets": {
       "viewport/typography_desktop": "enabled",
