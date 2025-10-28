@@ -21,23 +21,23 @@
       },
       "background": {
         "surface": {
-          "value": "{color.palette.white}",
+          "value": "{color.palette.mono.100}",
           "type": "color"
         },
         "primary": {
-          "value": "{color.palette.mono.50}",
+          "value": "{color.palette.accent.100}",
           "type": "color"
         },
         "secondary": {
-          "value": "{color.palette.mono.50}",
+          "value": "{color.palette.neutral.400}",
           "type": "color"
         },
         "accent": {
-          "value": "{color.palette.accent.700}",
+          "value": "{color.palette.positive.100}",
           "type": "color"
         },
         "accent-light": {
-          "value": "{color.palette.mono.100}",
+          "value": "{color.palette.negative.500}",
           "type": "color"
         }
       },
@@ -76,7 +76,7 @@
       "background": {
         "primary": {
           "default": {
-            "value": "{color.core.background.accent}",
+            "value": "{color.palette.black}",
             "type": "color"
           },
           "hover": {
@@ -102,29 +102,29 @@
       "content": {
         "primary": {
           "default": {
-            "value": "{color.core.content.inverse}",
+            "value": "{color.palette.black}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.core.content.inverse}",
+            "value": "{color.palette.black}",
             "type": "color"
           },
           "active": {
-            "value": "{color.core.content.inverse}",
+            "value": "{color.palette.black}",
             "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "value": "{color.core.content.accent}",
+            "value": "{color.palette.black}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.core.content.accent}",
+            "value": "{color.palette.black}",
             "type": "color"
           },
           "active": {
-            "value": "{color.core.content.accent}",
+            "value": "{color.palette.black}",
             "type": "color"
           }
         }
